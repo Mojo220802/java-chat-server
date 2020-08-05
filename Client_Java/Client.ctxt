@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=serverIP\ serverport
+comment1.target=Client(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=print
+comment3.target=void\ printToServer(java.lang.String)
+comment4.params=serverIP\ serverport
+comment4.target=void\ changeServer(java.lang.String,\ int)
+numComments=5
